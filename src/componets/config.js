@@ -7,4 +7,4 @@ export const PAYPAL_API_SECRET = process.env.PAYPAL_API_SECRET;
 export const PAYPAL_API = process.env.PAYPAL_API; 
 
 export const PORT = 3000;
-export const HOST ='http://localhost:3000'
+export const HOST ='https://sevencito07.github.io/paypal-app/'
